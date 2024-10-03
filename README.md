@@ -11,4 +11,13 @@ Para ver la práctica solo hay que descargar los archivos y ejecutar Live Server
 
 ```javascript // This is a simple JavaScript example function sayHello(name) { console.log(Hello, ${name}!); }
 
+<<<<<<< HEAD
 console.log("Resta: res) ```
+=======
+let name = "Alice";
+let message = `Hello, ${name}!`;
+console.log(message);```
+
+# Sourcr Tree
+![Hiiii :D](sourcetree.png)
+>>>>>>> f69315b ( added source tree !)
