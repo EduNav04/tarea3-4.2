@@ -11,6 +11,4 @@ Para ver la práctica solo hay que descargar los archivos y ejecutar Live Server
 
 ```javascript // This is a simple JavaScript example function sayHello(name) { console.log(Hello, ${name}!); }
 
-let name = "Alice";
-let message = `Hello, ${name}!`;
-console.log(message);```
+console.log("Resta: res) ```
