@@ -4,6 +4,8 @@
 Esta pratica consistio en crear una página HTML muy básica con estilos y archivo de JS para ejecutar algunas funciones
 
 
+![Hiiii :D](sourcetree.png)
+
 # Como ver la pratica
 
 Para ver la práctica solo hay que descargar los archivos y ejecutar Live Server Visual Studio. Además, hay que abrir el "inspeccionar" de Chrome para poder ver la salida de las funciones de JS.
@@ -18,6 +20,4 @@ let name = "Alice";
 let message = `Hello, ${name}!`;
 console.log(message);```
 
-# Sourcr Tree
-![Hiiii :D](sourcetree.png)
 >>>>>>> f69315b ( added source tree !)
